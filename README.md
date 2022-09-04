@@ -3,7 +3,7 @@
 
 --> TRYING XTORIA
 
-To try Xtoria Variable Font on web, open the TTF file (XtoriaVF.ttf) in https://fontgauntlet.com/
+To try Xtoria Variable Font on web, open the TTF file (XtoriaVF.ttf) in https://fontgauntlet.com/.
 Note that, since Xtoria Variable Font is still a prototype, there is no kerning applied yet.
 
 
