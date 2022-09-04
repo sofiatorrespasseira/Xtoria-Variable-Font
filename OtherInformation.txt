@@ -7,4 +7,4 @@ Glyphs Font editor oficial website
 --> https://glyphsapp.com
 
 Dinamos Font Gauntlet webpage
--->https://fontgauntlet.com
+--> https://fontgauntlet.com
