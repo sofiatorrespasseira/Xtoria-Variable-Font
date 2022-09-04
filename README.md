@@ -3,15 +3,15 @@
 
 --> TRYING XTORIA
 
-  To try Xtoria Variable Font on web, open the TTF file (XtoriaVF.ttf) in https://fontgauntlet.com/
-  Note that, since Xtoria Variable Font is still a prototype, there is no kerning applied yet.
+To try Xtoria Variable Font on web, open the TTF file (XtoriaVF.ttf) in https://fontgauntlet.com/
+Note that, since Xtoria Variable Font is still a prototype, there is no kerning applied yet.
 
 
 
 --> KNOW MORE ABOUT XTORIA 
 
-  Xtoria Variable Font was created based on a reflection on the evolution of typographic forms and their value as visual communication tools.
-  From Renaissance to Postmodern, this font illustrates the potential contained within variable fonts in a very unique way. 
+Xtoria Variable Font was created based on a reflection on the evolution of typographic forms and their value as visual communication tools.
+From Renaissance to Postmodern, this font illustrates the potential contained within variable fonts in a very unique way. 
   This font oﬀers more than 32 possible combinations thanks to its 8 unique font styles and 4 distinct axes: Serif (SERF, X-Height (XHGT), Axis/Angle of Stress (AXIS) and Contrast (CNTR).
 
 
