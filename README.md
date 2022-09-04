@@ -26,5 +26,5 @@
  
  Designed by Sofia Torres Passeira and supervised by João Manuel Bicker.
  
- Xtoria Variable Font was crafted as a component for the practical project of a master dissertation, in Design and Multimedia Faculty of Sciences 
- and Technology at the University of Coimbra.
+ Xtoria Variable Font was crafted as a component for the practical project of a master dissertation, in Design and Multimedia at Faculty of Sciences 
+ and Technology in University of Coimbra.
